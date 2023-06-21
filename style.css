@@ -1,4 +1,105 @@
-p {
-  color: red;
-  font-style: italic;
+.sunsistem {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+#tv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 300px 0 0 130px;
+}
+#vacuum {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 600px 0 0 200px;
+}
+#phone {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 820px 0 0 900px;
+}
+#washingmachine  {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 1000px 0 0 900px;
+}
+#toaster {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 1000px 0 0 1200px;
+}
+#speaker {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 200px 0 0 1200px;
+}
+#refrigerator {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 850px 0 0 20px;
+}
+#mouse {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 1200px 0 0 1400px;
+}
+#laptop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 1500px;
+}
+#keyboard {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 1200px;
+}
+#kettle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 1150px 0 0 1200px;
+}
+#headphones {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 700px 0 0 1200px;
+}
+#coffeemaker {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 500px;
+}
+#cctv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 700px 0 0 500px;
+}
+#camera {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 1000px;
+}
+#message {
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    background-color: gray;
+    color: black;
+    font-size: 60pt;	
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 320px;
 }
